@@ -33,7 +33,7 @@
 
 2. **Navigate to Project Directory:**
 ```bash
-  cd Coffee-Borcelle
+cd Coffee-Borcelle
 
 ```
 
@@ -50,8 +50,3 @@ Check out the live deployment on GitHub Pages:
 [https://nadun677.github.io/Coffee-Borcelle/](https://www.google.com/search?q=https://nadun677.github.io/Coffee-Borcelle/)
 
 ---
-git add README.md
-git commit -m "Add detailed project description to README.md"
-git push
-
-```
