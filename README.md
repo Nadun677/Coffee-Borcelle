@@ -47,6 +47,6 @@ Open `index.html` directly in your preferred web browser.
 
 Check out the live deployment on GitHub Pages:
 
-[https://nadun677.github.io/Coffee-Borcelle/](https://www.google.com/search?q=https://nadun677.github.io/Coffee-Borcelle/)
+[https://nadun677.github.io/Coffee-Borcelle/]([https://www.google.com/search?q=https://nadun677.github.io/Coffee-Borcelle/](https://coffeborcelle.netlify.app/))
 
 ---
