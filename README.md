@@ -29,11 +29,11 @@
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/Nadun677/Coffee-Borcelle.git](https://github.com/Nadun677/Coffee-Borcelle.git)
-```
+
 
 2. **Navigate to Project Directory:**
 ```bash
-cd Coffee-Borcelle
+  cd Coffee-Borcelle
 
 ```
 
@@ -50,22 +50,6 @@ Check out the live deployment on GitHub Pages:
 [https://nadun677.github.io/Coffee-Borcelle/](https://www.google.com/search?q=https://nadun677.github.io/Coffee-Borcelle/)
 
 ---
-
-## 👤 Author
-
-Developed by **Mahmoud Ibrahim** (*CodeVibes*)
-
-```
-
----
-
-### How to push this to GitHub:
-
-1. Create a file named `README.md` in your project folder.
-2. Paste the markdown code above and save it.
-3. Run these commands in your PowerShell terminal:
-
-```powershell
 git add README.md
 git commit -m "Add detailed project description to README.md"
 git push
